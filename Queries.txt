@@ -1,0 +1,119 @@
+Text-to-Speech (TTS)							pyttsx3
+Speech Recognition							speech_recognition
+Natural Language Processing (NLP)					nltk, spacy
+Web Scraping								requests, bs4, selenium
+Data Visualization							matplotlib, seaborn
+Machine Learning							sklearn, tensorflow, torch
+Web Browser Automation							webbrowser, pyautogui, selenium
+System Interaction							subprocess, os, sys, getpass, winshell, pygetwindow
+
+Automated Email Sending / Whatsapp message sending
+Automated HTML building
+Summarize PDF, Text, Website content
+Create an Image using prompt
+Direct Answers to general questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+who are you
+clear log
+hold, wait
+
+add address
+add anchor
+add audio
+add blockquote
+add br
+add button
+add comment
+add heading
+add hr
+add iframe
+add image
+add paragraph
+add video
+complete website
+
+open task manager, task manager
+open notepad
+open camera, take picture, capture
+open browser
+open youtube
+open google
+open cu login
+open blackboard
+open stack overflow
+open visual studio code, open VS Code, code
+open eclipse
+open pycharm
+open code blocks
+open mozilla firefox
+open chrome
+open whatsapp
+open v l c
+
+close command prompt
+close camera
+close firefox
+close visual studio code
+close eclipse
+close notepad
+close pycharm
+close code blocks
+close chrome
+close whatsapp
+close vlc
+close spotify
+
+images, image---find an image with the user prompt
+send email---send gmail
+play, youtube---plays the first video on youtube when searched for the query after removing 'play'
+search file/folder---search for a query in file explorer
+search---searches in google every thing proceding 'search'
+price of, price---finds the price of ths product mentioned from amazon
+poem
+resume, pause
+previous
+next
+convert currency
+covid-19, corona
+weather, temperature
+month, month is going
+day, day today
+calculate
+quote, quotes
+what, who
+write a note, make a note
+show me the notes, read notes
+distance
+empty recycle bin, clear recycle bin
+
+set alarm, timer, stopwatch
+shut down
+restart
+log out
+check for updates, update
+troubleshoot
+
+screenshot
+volume up
+volume down
+mute volume
+joke
+internet speed
+send message on whatsapp, whatsapp
+how to
+screen recording
+news
+exit
